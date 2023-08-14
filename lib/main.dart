@@ -1,6 +1,7 @@
 import 'package:flutter/cupertino.dart';
-import 'package:kurs_valuta/scr/common/widget/my_app.dart';
+import 'package:kurs_valuta/src/common/widget/my_app.dart';
+
 
 void main(){
-  runApp(MyApp());
+  runApp(const MyApp());
 }
